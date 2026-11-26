@@ -1,6 +1,6 @@
 ### Hola, soy Pablo 👋
 
-Ingeniero de Telecomunicaciones (UNI) y estudiante de la Maestría en Energía (PUCP), en Lima, Perú 🇵🇪.
+Ingeniero, en Lima, Perú 🇵🇪.
 Construyo proyectos con **IA, Python e impresión 3D**: visualizaciones interactivas, mapas y herramientas útiles.
 
 🔭 **Ahora mismo:** un asistente visual con IA para personas ciegas o con baja visión: cámara a la altura de los ojos, audífonos de conducción ósea y piezas impresas en 3D.
